@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'proxycurl' => [
+        'key' => env('PROXYCURL_API_KEY'),
+    ],
+
+
 ];
